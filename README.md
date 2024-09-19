@@ -2,7 +2,7 @@
 
 Este proyecto presenta un dashboard interactivo desarrollado en Power BI para analizar las ventas de productos tecnológicos. Proporciona una visión completa de la facturación total, el producto más vendido, la mejor categoría, y las ventas por marca y continente, junto con tendencias de facturación y cantidad vendida a lo largo del tiempo.
 
-![Dashboard de Ventas](ruta/a/tu/imagen.png)
+![Dashboard de Ventas](https://raw.githubusercontent.com/Dataniel31/dashboard-ventas-tecnologia/refs/heads/main/dashboardimg.png)
 
 ## Descripción del Dashboard
 
